@@ -12,8 +12,8 @@
 #include <sys/ioctl.h>
 #include <netinet/in.h>
 #include <net/if.h>
-#include "ethhdr.h"
-#include "arphdr.h"
+#include "src/ethhdr.h"
+#include "src/arphdr.h"
 
 
 #define SUCCESS 1
